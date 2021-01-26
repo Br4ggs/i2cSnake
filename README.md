@@ -28,4 +28,4 @@ The responsibility of each device is as follows:
 ---
 
 ## Todos
-[ ] Add protocol documentation
+- [ ] Add protocol documentation
